@@ -1,1 +1,2 @@
 hey there git bash
+new change has been made in this sample
